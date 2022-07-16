@@ -52,10 +52,4 @@ class GameState {
 			anim.anim.pause = anim.status;
 		}
 	}
-
-	public function onMovingIn() {
-		for (anim in animations) {
-			anim.anim.pause = anim.status;
-		}
-	}
 }

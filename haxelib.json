@@ -1,0 +1,8 @@
+{
+	"name": "gmfk",
+	"classPath": "src/",
+	"dependencies": {
+		"heaps-aseprite": "",
+		"heaps": ""
+	}
+}
